@@ -34,6 +34,10 @@ a {
   color: inherit;
 }
 
+pre {
+  color: rgb(199,146,234) !important;
+}
+
 .code-surfer-no-zoom p {
 	font-size: 2rem;
 }
